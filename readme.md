@@ -20,3 +20,5 @@ enum Gunler
 **Yukarıda Gunler enum'ını görüyorsunuz. Enum lar default olarak 1'den başlar.**
 
 Gunler.Pazartesi ifadesi ile Pazartesi'nin string ifadesine erişebiliriz. Eğer Pazartesinin 1. gün oldugu bilgisine ihtiyacımız varsa o da şu şekildedir: (int)Gunler.Pazartesi
+
+[www.patika.dev](www.patika.dev)
